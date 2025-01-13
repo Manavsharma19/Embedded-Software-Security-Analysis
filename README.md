@@ -9,10 +9,12 @@ This project involves analyzing embedded systems firmware and C programs to iden
 Performed **buffer overflow** exploits on C programs to achieve unintended functionality.
 Proposed secure coding solutions to fix vulnerabilities in the provided C programs.
 
-Evaluated the effectiveness of security mechanisms such as: **Canaries,** **ASLR,** **NX-bit protection**
+Evaluated the effectiveness of security mechanisms such as: **Canaries,** **ASLR,** **NX-bit protection.**
 
 Programming Languages: C, Bash
+
 Tools: Binwalk, Firmwalker, SquashFS-tools, GDB, GCC, Linux utilities (grep, scp)
+
 Operating Systems: Linux, Protostar VM
 
 **How to Use This Repository:**
