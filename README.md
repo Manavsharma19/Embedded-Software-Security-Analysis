@@ -5,9 +5,11 @@ This project involves analyzing embedded systems firmware and C programs to iden
 
 **Key Features:
 **
+
 **Reverse-engineered firmware binaries** to extract and analyze cryptographic keys and remote login credentials.
 Performed **buffer overflow** exploits on C programs to achieve unintended functionality.
 Proposed secure coding solutions to fix vulnerabilities in the provided C programs.
+
 Evaluated the effectiveness of security mechanisms such as:
 **Canaries**: For detecting stack buffer overflow attacks.
 **ASLR**: To randomize memory addresses and hinder exploits.
@@ -17,6 +19,7 @@ Technologies and Tools Used:
 Programming Languages: C, Bash
 Tools: Binwalk, Firmwalker, SquashFS-tools, GDB, GCC, Linux utilities (grep, scp)
 Operating Systems: Linux, Protostar VM
+
 **How to Use This Repository:**
 
 Clone the repository.
